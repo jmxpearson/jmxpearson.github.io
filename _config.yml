@@ -1,6 +1,6 @@
 # Site settings
 title: Credible Interval
-email: your-email@domain.com
+email: john.pearson@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a research scientist in the Duke Institute for Brain Sciences. I apply
   machine learning techniques to the analysis of brain data.
