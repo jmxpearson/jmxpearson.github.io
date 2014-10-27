@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
   machine learning techniques to the analysis of brain data.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jmxpearson.com" # the base hostname & protocol for your site
-twitter_username: jmxpearson
 github_username:  jmxpearson
 
 # Build settings
