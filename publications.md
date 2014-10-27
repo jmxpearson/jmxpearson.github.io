@@ -79,3 +79,65 @@ Frontiers in Psychology (2010) vol. 1, article 237, PMCID: PMC3070460 [html](htt
 1. *A physiologically-inspired model of numerical classification based on graded stimulus coding*   
 John M. Pearson, Jamie D. Roitman, Elizabeth M. Brannon, Michael L. Platt, Sridhar Raghavachari   
 Frontiers in Behavioral Neuroscience (2010) vol. 4 (0), 12pp, PMCID: PMC2814553 [html](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2814553/)
+
+1. *Neurons in posterior cingulate cortex signal exploratory decisions in a dynamic multi-option choice task*   
+John M. Pearson, Benjamin Y. Hayden, Sridhar Raghavachari, Michael L. Platt   
+Current Biology (2009) vol. 19 (18), pp 1-6, PMID: 19733074 [html](http://www.sciencedirect.com/science/article/pii/S0960982209014742) [pdf](https://www.researchgate.net/publication/26792145_Neurons_in_posterior_cingulate_cortex_signal_exploratory_decisions_in_a_dynamic_multioption_choice_task)
+
+1. *Fictive learning signals in anterior cingulate cortex*   
+Benjamin Y. Hayden, John M. Pearson, and Michael L. Platt   
+Science (2009) vol. 324 (5929) p. 948-950. PMCID: PMC3096846 [html](http://www.sciencemag.org/content/324/5929/948.short) [pdf](https://www.researchgate.net/publication/24428843_Fictive_reward_signals_in_the_anterior_cingulate_cortex) [NYT](http://www.nytimes.com/2009/06/02/science/02tier.html?_r=0)
+
+1. *Gravitons, Inflatons, Twisted Bits: A Noncommutative Bestiary*   
+John M. Pearson   
+PhD Thesis (accepted, May 2004) [pdf](http://www.princeton.edu/physics/graduate-program/theses/theses-from-2004/J.Pearsonthesis.pdf)
+
+   In the following, authors are listed in alphabetical order, as is conventional in physics:
+
+1. *Tracing the String: BMN correspondence at Finite J^2/N*
+John Pearson, Marcus Spradlin, Diana Vaman, Anastasia Volovich, Herman Verlinde   
+JHEP 0305 (2003) 022 [arXiv](http://arxiv.org/abs/hep-th/0210102)
+
+1. *Brane/Flux Annihilation and the String Dual of a Non-Supersymmetric Field Theory*   
+Shamit Kachru, John Pearson, Herman Verlinde   
+JHEP 0206 (2002) 021 [arXiv](http://arxiv.org/abs/hep-th/0112197)
+
+1. *Semiclassical Corrections to the Oscillation Frequencies of a Trapped Bose-Enstein Condensate*   
+Eric Braaten, John Pearson   
+Phys. Rev. Lett. 82, 255-258 (1999) [arXiv](http://arxiv.org/abs/cond-mat/9808088)
+
+# Chapters and Commentary
+
+1. *Dopamine: burning the candle at both ends*   
+John M. Pearson and Michael L. Platt   
+Neuron (2013) [html](http://www.sciencedirect.com/science/article/pii/S0896627313007459) [pdf](https://www.researchgate.net/publication/256467795_Dopamine_burning_the_candle_at_both_ends)
+
+1. *Neuroethology of Decision Making*   
+Geoffrey K. Adams, Karli K. Watson, John M. Pearson, and Michael L. Platt   
+Evolution and the Mechanisms of Decision Making, Hammerstein and Stevens, eds. (2012) [pdf](http://www.jmxpearson.com/wp-content/uploads/2012/11/SFR11_06-Adams_PP.pdf)
+
+1. *Dynamic decision making in the brain*   
+John M. Pearson and Michael L. Platt   
+Nature Neuroscience (2012) vol. 15(3), pp 341-342 [html](http://www.nature.com/neuro/journal/v15/n3/full/nn.3049.html) [pdf](https://www.researchgate.net/publication/221858407_Dynamic_decision_making_in_the_brain)
+
+1. *A role for posterior cingulate cortex in policy switching and cognitive control*   
+John M. Pearson, Benjamin Y. Hayden, Michael L. Platt   
+in Neural Basis of Motivational and Cognitive Control Attention and Performance XXIV, Mars, Sallett, Rushworth, and Yeung eds. (2011) [html](http://books.google.com/books?hl=en&lr=&id=A_eoYgtLmFMC&oi=fnd&pg=PA127&dq=A+role+for+posterior+cingulate+cortex+in+policy+switching+and+cognitive+control+John+M.+Pearson,+Benjamin+Y.+Hayden,+Michael+L.+Platt&ots=YcoNCN0jL_&sig=W3qlHQu6u2Dvykzeu5DDJS-Z-b4#v=onepage&q=A%20role%20for%20posterior%20cingulate%20cortex%20in%20policy%20switching%20and%20cognitive%20control%20John%20M.%20Pearson%2C%20Benjamin%20Y.%20Hayden%2C%20Michael%20L.%20Platt&f=false)
+
+1. *Confidence and corrections: how we make and un-make up our minds*   
+John M. Pearson and Michael L. Platt   
+Neuron (2009) vol. 63 (6), pp 724-726 [html](http://www.sciencedirect.com/science/article/pii/S089662730900693X) [pdf](https://www.researchgate.net/publication/26835518_Confidence_and_corrections_how_we_make_and_un-make_up_our_minds)
+
+# Popular Press
+
+1. *Coaxing Order From Chaos*   
+John Pearson   
+Duke Magazine (Sep-Oct 2009) vol. 95 (5) [html](http://dukemagazine.duke.edu/article/coaxing-order-from-chaos)
+
+1. *Let It Ride: The Neuroscience of Risk*   
+John Pearson   
+Duke Magazine (Nov-Dec 2008) vol. 94 (6) [html](http://dukemagazine.duke.edu/article/let-it-ride-the-neuroscience-of-risk)
+
+1. *Decision Making in the Brain: Eavesdropping on Neurons*   
+John Pearson and Michael Platt   
+Mind Matters (Aug 5, 2008) [html](http://www.scientificamerican.com/article/decision-making-in-brain/)
