@@ -2,13 +2,12 @@
 layout: minimal_post
 title:  "Regular Expressions Cookbook by Jan Goyvaerts and Steven Levithan; O'Reilly Media"
 date:   2014-02-15 05:15:00 
-introduction: "Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program."
-icon: "http://akamaicovers.oreilly.com/images/0636920023630/cat.gif"
 ---
-
 > Some people, when confronted with a problem, think, “I know, I’ll use regular expressions.” Now they have two problems.
 >
 > — Old Regex Proverb
+
+Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/0636920023630/cat.gif" style="float:left; margin-right: 20px"/> Among casual programmers, regular expressions maintain something like the status of the old Celtic ogham: forbidding to the uninitiated, yet redolent of secrets and deep magic. Like Perl, which helped popularize them, they are among the clearest examples of “write-only” code — devastatingly effective for those who concoct them, unparseable by everyone else.
 

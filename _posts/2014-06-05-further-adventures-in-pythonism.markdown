@@ -2,11 +2,10 @@
 layout: minimal_post
 title:  "Further adventures in Pythonism"
 date:   2014-06-05
-introduction: Over the last year or so, I’ve been porting all my analysis over to Python. Why, you ask? Perhaps because it’s a pleasure to use a language that’s clean and consistent. Perhaps because I’m tired of dying a little inside every time I have to process strings in Matlab. Either way, to borrow a concept used by Bible translators, one could almost say that I’ve discovered in Python my heart language for coding.
-icon: "http://www.psychopy.org/_static/psychopyDocBanner2.gif"
 ---
 
-<img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif" style="float:left; margin-right: 20px"/> 
+<img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif" style="float:left; margin-right: 20px"/> Over the last year or so, I’ve been porting all my analysis over to Python. Why, you ask? Perhaps because it’s a pleasure to use a language that’s clean and consistent. Perhaps because I’m tired of dying a little inside every time I have to process strings in Matlab. Either way, to borrow a concept used by Bible translators, one could almost say that I’ve discovered in Python my heart language for coding.
+
 But there are a few sticking points. First of all, neuroscience is still a closed shop. A Matlab shop. Early adopters are asking for trouble. Second of all, I help enough people with coding that I can’t very well start pressuring them to switch over without some assurance that they can continue to perform all their usual tasks in the new system.
 
 Which brings us to [PsychToolbox](http://psychtoolbox.org/). 

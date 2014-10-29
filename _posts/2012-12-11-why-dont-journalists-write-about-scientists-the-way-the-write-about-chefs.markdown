@@ -2,9 +2,8 @@
 layout: minimal_post
 title:  "Why don't journalists write about scientists the way they write about chefs?"
 date:   2012-12-11 
-introduction: I make no secret of the fact that I love to read <em>The New Yorker</em>. Truth be told, I’ve probably read more than 95% of the long features published in the last seven years. And of those many, many pieces, my favorite category is the profile. Maybe because I’m fixated on high-achievers and the rarefied air in which they seem to live. (The academic’s version of tabloid-reading? Bernard-Henri Lévy as Lindsay Lohan?) Maybe just because humans are the most intensely human primates on the globe, and we love nothing better than gossip.
 ---
-
+I make no secret of the fact that I love to read _The New Yorker_. Truth be told, I’ve probably read more than 95% of the long features published in the last seven years. And of those many, many pieces, my favorite category is the profile. Maybe because I’m fixated on high-achievers and the rarefied air in which they seem to live. (The academic’s version of tabloid-reading? Bernard-Henri Lévy as Lindsay Lohan?) Maybe just because humans are the most intensely human primates on the globe, and we love nothing better than gossip.
 Either way, as I was walking back from lunch after having enjoyed Jane Kramer’s piece about Yotam Ottolenghi, a thought struck me: why don’t journalists write about scientists the way they write about chefs? Or visual artists, for that matter? Or musicians?
 
 It’s no secret that scientists are usually pretty disappointed with the quality of the media attention they receive. And we contribute to it. Even professional scientists writing for public consumption often wind up simplifying research in ways that make them blanch in professional company.

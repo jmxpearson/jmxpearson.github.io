@@ -114,7 +114,7 @@ Neuron (2013) [html](http://www.sciencedirect.com/science/article/pii/S089662731
 
 1. *Neuroethology of Decision Making*   
 Geoffrey K. Adams, Karli K. Watson, John M. Pearson, and Michael L. Platt   
-Evolution and the Mechanisms of Decision Making, Hammerstein and Stevens, eds. (2012) [pdf](http://www.jmxpearson.com/wp-content/uploads/2012/11/SFR11_06-Adams_PP.pdf)
+Evolution and the Mechanisms of Decision Making, Hammerstein and Stevens, eds. (2012) [pdf]({{site.dukeurl}}/assets/SFR11_06-Adams_PP.pdf)
 
 1. *Dynamic decision making in the brain*   
 John M. Pearson and Michael L. Platt   

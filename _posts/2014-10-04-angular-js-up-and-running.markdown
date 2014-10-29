@@ -2,9 +2,8 @@
 layout: minimal_post
 title:  "Angular JS: Up and Running by Brad Green and Shyam Seshadri; O'Reilly Media"
 date:   2014-10-04
-introduction: "Disclaimer: I received a free copy of this work under the O'Reilly Blogger Review Program."
-icon: "http://akamaicovers.oreilly.com/images/9781491908266/rc_cat.gif"
 ---
+Disclaimer: I received a free copy of this work under the O'Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/9781491908266/rc_cat.gif" style="float:left; margin-right: 20px"/> Not long ago, I met a developer who told me he’d taken up a hobby: attending AngularJS talks at conferences. Note that he did not do this out of some deep love for Angular. No, he did it out of sheer amazement that he, a PhD-holding professional developer still could not, after so many attempts, get his head around this beast that the web front-end world was so in love with.
 

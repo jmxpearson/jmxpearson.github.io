@@ -2,9 +2,8 @@
 layout: minimal_post
 title:  "Fluent Conference 2014 Complete Video Collection; O'Reilly Media"
 date:   2014-06-16
-introduction: "Disclaimer: I received a free copy of this work under the O'Reilly Blogger Review Program."
-icon: "http://akamaicovers.oreilly.com/images/9781491900413/bkt.gif"
 ---
+Disclaimer: I received a free copy of this work under the O'Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/9781491900413/bkt.gif" style="float:left; margin-right: 20px"/> So I’m not a web developer, just an interested amateur. I know a little HTML, a smattering of JavaScript, and a few tidbits of jQuery, plus some backend stuff (Node/Express) with which I have limited facility. I had two goals in reviewing this collection, which includes every keynote, tutorial and session talk from the Fluent conference put on by O’Reilly:
 

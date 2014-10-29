@@ -2,8 +2,8 @@
 layout: minimal_post
 title:  "In which I justify shilling for O'Reilly"
 date:   2014-02-15 
-introduction: Given that I have proven almost wholly incapable of sustaining a blog, it might come as a surprise to my “legions” of readers that I would break a long silence just to start posting book reviews. Programming book reviews at that.
 ---
+Given that I have proven almost wholly incapable of sustaining a blog, it might come as a surprise to my “legions” of readers that I would break a long silence just to start posting book reviews. Programming book reviews at that.
 
 Well, I joined the [O’Reilly Blogger Review Program](http://oreilly.com/bloggers/). This means they give me free books, and I’m required to post reviews. I am not required to make them positive, be funny, be insightful, or guarantee your happiness.
 

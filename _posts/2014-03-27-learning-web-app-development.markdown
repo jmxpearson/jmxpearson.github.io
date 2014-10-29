@@ -2,9 +2,8 @@
 layout: minimal_post
 title:  "Learning Web App Development by Semmy Purewal; O'Reilly Media"
 date:   2014-03-27 
-introduction: "Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program."
-icon: "http://akamaicovers.oreilly.com/images/9781449370190/cat.gif"
 ---
+Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/9781449370190/cat.gif" style="float:left; margin-right: 20px"/> You’ve got to hand it to anyone these days willing to say, “Yes, I’ll teach you web app development. I’ll do it from ground zero and in under 300 pages.” Not only because modern web development offers so many toolchains to choose from, but because many of the standards involved were designed at different times, weren’t designed to play nicely with others, still have to accommodate legacy cruft (i.e., IE), or are just plain confusing. It’s a recipe for frustration.
 

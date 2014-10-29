@@ -2,9 +2,8 @@
 layout: minimal_post
 title:  "High Performance Python by Micha Gorelick and Ian Ozsvald; O'Reilly Media"
 date:   2014-04-14 
-introduction: "Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program."
-icon: "http://akamaicovers.oreilly.com/images/9781491900727/rc_cat.gif"
 ---
+Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/9781491900727/rc_cat.gif" style="float:left; margin-right: 20px"/> In the worlds of scientific computing and data science, it’s hard to dispute that Python is the language of the moment. With an ever-increasing user community and quality package support, the NumPy/SciPy/Pandas stack is beginning to give platforms like Matlab and R a run for their money.
 

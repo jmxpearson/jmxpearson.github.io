@@ -2,10 +2,8 @@
 layout: minimal_post
 title:  "Is this mouse depressed?"
 date:   2013-01-02 
-introduction: It’s high times in the land of neuroscience. In the last two weeks, we’ve had three high-profile papers from the wizards of optogenetics, all related to depression, all linked to dopamine. 
-icon: "http://www.jmxpearson.com/wp-content/uploads/2012/12/Lab_mouse_mg_3263-300x200.jpg"
 ---
-<img src="http://www.jmxpearson.com/wp-content/uploads/2012/12/Lab_mouse_mg_3263-300x200.jpg" title="Mus musculus, feelin' blue" style="float: left; margin-right: 20px"/> Now, by this point, [everyone](http://www.wired.com/wiredscience/2010/11/optogenetics-relieves-depression-in-a-mouse-trial/) [in](http://med.stanford.edu/ism/2012/december/deisseroth.html) [the](http://www.sciencedaily.com/releases/2012/12/121212134056.htm) [blogosphere](http://phenomena.nationalgeographic.com/2012/12/12/the-two-faces-of-depression-two-studies-switch-off-symptoms-in-mice-but-in-opposite-ways/) has covered the gee whiz aspect of this story, so I thought I’d delve into a couple of problematic issues these studies raise for those of us who think about neuroscience for a living.
+<img src="{{site.dukeurl}}/assets/Lab_mouse_mg_3263-300x200.jpg" title="Mus musculus, feelin' blue" style="float: left; margin-right: 20px"/> It’s high times in the land of neuroscience. In the last two weeks, we’ve had three high-profile papers from the wizards of optogenetics, all related to depression, all linked to dopamine.Now, by this point, [everyone](http://www.wired.com/wiredscience/2010/11/optogenetics-relieves-depression-in-a-mouse-trial/) [in](http://med.stanford.edu/ism/2012/december/deisseroth.html) [the](http://www.sciencedaily.com/releases/2012/12/121212134056.htm) [blogosphere](http://phenomena.nationalgeographic.com/2012/12/12/the-two-faces-of-depression-two-studies-switch-off-symptoms-in-mice-but-in-opposite-ways/) has covered the gee whiz aspect of this story, so I thought I’d delve into a couple of problematic issues these studies raise for those of us who think about neuroscience for a living.
 
 **Opening caveats**
 
