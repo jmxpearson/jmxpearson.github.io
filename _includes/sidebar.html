@@ -1,0 +1,17 @@
+{% for page in site.pages %}
+    {% if page.title %}
+        <h3>
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </h3>
+    {% endif %}
+{% endfor %}
+
+<h3><a href="http://www.jmxpearson.com/assets/cv.pdf">cv</a></h3>
+
+<h3><a href="http://scholar.google.com/citations?user=4whjDosAAAAJ&hl=en">Google Scholar</a></h3>
+
+<h3><a href="https://www.researchgate.net/profile/John_Pearson5">ResearchGate</a></h3>
+
+<h3><a href="https://github.com/jmxpearson">GitHub</a></h3>
+
+<h3><a href="https://www.linkedin.com/in/jmxpearson">LinkedIn</a></h3>

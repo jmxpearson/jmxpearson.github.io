@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: minimal_post
 title:  "Eye Tracking in User Experience Design by Jennifer Romano Bergstrom and Andrew Jonathan Schall; Elsevier/Morgan Kaufmann"
 date:   2014-05-26
+introduction: "Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program."
+icon: "http://akamaicovers.oreilly.com/images/9780124167094/s.gif"
 ---
-Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/9780124167094/s.gif" style="float:left; margin-right: 20px"/> About me: I use eye tracking as a research method in conjunction with neuroscience and psychology experiments.
 

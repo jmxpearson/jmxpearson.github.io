@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: minimal_post
 title:  "Most Requested"
 date:   2012-12-09 22:15:50
+introduction: I’m uploading here three presentations for which I still get requests from time to time.
 ---
-I’m uploading here three presentations for which I still get requests from time to time.
 
 Introduction to ANOVA is a lab meeting presentation I gave introducing the concept of ANOVAs as generalized linear models. In my field, most people have some idea what regression does, but treat ANOVA as black-box sorcery. The idea here was to bridge that gap.
 

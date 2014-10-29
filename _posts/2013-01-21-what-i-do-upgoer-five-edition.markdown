@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal_post
 title:  "What I do: Upgoer Five edition"
 date:   2013-01-21 
 ---

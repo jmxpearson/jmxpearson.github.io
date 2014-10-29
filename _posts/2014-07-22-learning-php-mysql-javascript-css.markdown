@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: minimal_post
 title:  "Learning PHP, MySQL, JavaScript, CSS & HTML5 by Robin Nixon; O'Reilly Media"
 date:   2014-07-22
+introduction: "Disclaimer: I received a free copy of this work under the O'Reilly Blogger Review Program."
+icon: "http://akamaicovers.oreilly.com/images/9781491949467/cat.gif"
 ---
-Disclaimer: I received a free copy of this work under the O'Reilly Blogger Review Program.
 
 <img src="http://akamaicovers.oreilly.com/images/9781491949467/cat.gif" style="float:left; margin-right: 20px"/> Let’s be honest: web development is confusing to the uninitiated. Unlike lots of other types of programming, where one learns a single language, web coding requires a *stack*. You’ll need both frontend and backend languages, database setup, markup, and styling. For someone with no background at all, it can be very unclear where to start.
 

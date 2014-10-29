@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal_post
 title:  "Stats snobbery"
 date:   2013-01-04 
 ---

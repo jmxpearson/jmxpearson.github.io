@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: minimal_post
 title:  "Regular Expressions Cookbook by Jan Goyvaerts and Steven Levithan; O'Reilly Media"
 date:   2014-02-15 05:15:00 
+introduction: "Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program."
+icon: "http://akamaicovers.oreilly.com/images/0636920023630/cat.gif"
 ---
-Disclaimer: I received a free review copy of this work through the O’Reilly Blogger Review Program.
 
 > Some people, when confronted with a problem, think, “I know, I’ll use regular expressions.” Now they have two problems.
 >

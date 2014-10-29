@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: minimal_post
 title:  "On not being in Kansas anymore"
 date:   2012-12-16 
+introduction: Long, long ago, in a galaxy far, far away, I was a physicist. Or at least I trained as one. And even now, far removed from anything like what I did in grad school, I still wouldn’t trade that background for anything. But by this point, I’ve been a neuroscientist long enough that the hours I spent staring forlornly at equations on chalkboards have begun to seem like they happened to someone else.
 ---
-Long, long ago, in a galaxy far, far away, I was a physicist. Or at least I trained as one. And even now, far removed from anything like what I did in grad school, I still wouldn’t trade that background for anything. But by this point, I’ve been a neuroscientist long enough that the hours I spent staring forlornly at equations on chalkboards have begun to seem like they happened to someone else.
 
 More recently, though, the ghost of physics past has started haunting me again. I’ve been thinking seriously about what it would mean to lead a lab full of people doing the kind of science I do, and the realization I’m coming to is that probably means recruiting students with backgrounds similar to mine. Hate to say it, but the kind of quantitative skills one gets from physics or computer science or stats or EE is a little like academic Magyar: you either learn it early, or you tend not to learn it at all.
 

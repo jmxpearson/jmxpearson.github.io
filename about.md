@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal_default
 title: About
 permalink: /about/
 ---
@@ -10,17 +10,7 @@ permalink: /about/
 
 Cognitive, systems, and decision neuroscience. Machine learning and data analysis. Python, R, and Matlab. Brain-related items of public interest from an insider’s view.
 
-# About the name:
-[Credible Intervals](http://en.wikipedia.org/wiki/Credible_interval) are the Bayesian's version of a confidence interval, a way of measuring uncertainty about our current state of knowledge. The title is meant to suggest that both belief and evidence have a role to play in the way we interpret the world. 
-
 # About me:
 <img src="http://www.jmxpearson.com/assets/john_photo_mini.jpg" style="float: right; margin-left: 20px"/>  I’m a research scientist in the [Duke Institute for Brain Sciences](http://www.dibs.duke.edu/) and the [Center for Cognitive Neuroscience](http://www.mind.duke.edu/). My research focuses on applying methods from machine learning to brain data, in which capacity I collaborate with faculty in the [Duke Statistical Machine Learning Group](https://web.duke.edu/statml/) and the [Information Initiative at Duke](http://bigdata.duke.edu/).
 
 I also have a special interest in the neurobiology of reward and decision-making, particularly issues of impulsivity and self-control. My first love (and training) was physics, so I like to make things quantitative when I can. Finally, I'm fascinated by animal behavior and approaches to neuroscience based on natural tasks like foraging, mate selection, and dominance. 
-
-# More about me:
-- [cv](http://www.jmxpearson.com/assets/cv.pdf)
-- [Google Scholar](http://scholar.google.com/citations?user=4whjDosAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/John_Pearson5)
-- [GitHub](https://github.com/jmxpearson)
-- [LinkedIn](https://www.linkedin.com/in/jmxpearson)
