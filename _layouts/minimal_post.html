@@ -6,9 +6,6 @@
     {% else %}
         <h4>{{ page.date | date_to_long_string }}</h4>
     {% endif %}
-    {% if page.introduction %}
-        <p> {{page.introduction }}
-    {% endif %}
     {{ content }}
 
 </section>

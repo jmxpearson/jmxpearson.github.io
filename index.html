@@ -7,6 +7,9 @@ layout: minimal_default
         <span class="index_date"> {{ post.date | date_to_long_string }}</span>
             </br>
             {{ post.excerpt }}
-            <p align="right"><a href="{{ post.url }}">Keep reading...</a></p>
+            {% if post.excerpt_only %}
+            {% else %}
+              <p align="right"><a href="{{ post.url }}">Keep reading...</a></p>
+            {% endif %}
         <hr style="clear: both"/>
 {% endfor %}
