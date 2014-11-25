@@ -1,6 +1,6 @@
 ---
 layout: minimal_post
-title:  "Dispatches from front"
+title:  "Dispatches from the front"
 date:   2014-11-14 13:15:00
 excerpt_only: true
 ---
