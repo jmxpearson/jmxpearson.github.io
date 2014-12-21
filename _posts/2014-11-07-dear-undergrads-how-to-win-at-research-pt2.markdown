@@ -7,7 +7,7 @@ date:   2014-11-07 23:59:00
 
 1. **We know you need a recommendation letter.** Rightly or wrongly, many students with little inclination toward research feel that they absolutely must get research experience in order to be competitive applicants to certain graduate programs (*cough* *cough* *medical school*). And maybe this is true. And if it is, I'm not going to judge you for that. When I was an undergrad, I badly wanted to get into graduate school, and if someone had told me I had to spend a semester working at a pet shop to give myself a fighting chance, I probably would have done it. Bottom line: I don't expect students to idolize me or my career choices, I just don't want them to suck so badly that writing a letter for them becomes an agonizing experience.
 
-    This is why I began laying out in my last installment **The Guide to Being Remembered**, a set of principles for success in undergraduate research. The first, if you want to save yourself the reading, is that [it pays not to be a flake](http://localhost:4000/2014/11/04/dear-undergrads-how-to-win-at-research-pt1.html). 
+    This is why I began laying out in my last installment **The Guide to Being Remembered**, a set of principles for success in undergraduate research. The first, if you want to save yourself the reading, is that [it pays not to be a flake](/2014/11/04/dear-undergrads-how-to-win-at-research-pt1.html). 
 
     In this installment Precept Number 2, but first, the other unacknowledged truth: 
 
