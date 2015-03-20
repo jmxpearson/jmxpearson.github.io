@@ -33,4 +33,4 @@ Sounds simple, right? It is. But just to be clear, this is what I mean:
 
 * **The positive** This all sounds like an enormous rant, but it isn't meant to be. Research is a lot of fun! And if you work with me, I will not constantly be telling you to turn down your music and get off my lawn. The essential message here is that working as part of a lab is not just another extracurricular activity. When you volunteer in a lab, you are part of a team, and that team needs to be able to count on you. Most importantly, demonstrating that you are a trustworthy, dependable member of a lab is the foundation of a successful research experience. *The more we trust you, the more we will entrust you with*, and the more you will get out of your research experience.
 
-[Next time](/2014/11/04/dear-undergrads-how-to-win-at-research-pt2.html): What key quality separates good undergraduate researchers from *great* undergraduate researchers?
+[Next time](/2014/11/07/dear-undergrads-how-to-win-at-research-pt2.html): What key quality separates good undergraduate researchers from *great* undergraduate researchers?

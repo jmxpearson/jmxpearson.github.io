@@ -39,4 +39,4 @@ But why, you ask? Why go hang out in an uncomfortable place with strangers when 
 
 Note also that there's a positive feedback effect: when you take part in lab culture, both intellectual *and* social, you have more fun working on research. You have more informal conversations with lab members. You get more mentoring. Most importantly, you think of yourself as part of a group, and as you do, you probably think more about your research and will probably have better ideas and better results. Science, like CrossFit, is a cult; we're not going to make you join, but the more you put into it, the more you will get out of it.
 
-Next time: Okay, but how do I actually do good science?
+[Next time:](/2014/12/21/dear-undergrads-how-to-win-at-research-pt3.html) Okay, but how do I actually do good science?
