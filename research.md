@@ -3,4 +3,4 @@ layout: minimal_default
 title: Research
 permalink: /research/
 ---
-Coming Soon!
+See my [lab website](http://pearsonlab.github.io).
